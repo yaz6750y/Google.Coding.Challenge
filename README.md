@@ -1,2 +1,3 @@
 # Google.Coding.Challenge
-Google coding challenge 
+Google coding challenge by Yasmin Stone 
+
